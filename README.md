@@ -8,17 +8,12 @@ This Project is about make a model to predicted the price of Saudi Arabia Used C
 ### 1. Database
 File Saudi Arabia Used Cars : https://drive.google.com/file/d/1Tr4YT5dmgwTrXLvIqZ4diBf5z8K6JjrR/view
 
-### 2. MySQL
-MySQL Workbench 
-version ``8.0``
-instalation : https://dev.mysql.com/downloads/workbench/
-
-### 3. Anaconda (Jupyter)
+### 2. Anaconda (Jupyter)
 Anaconda3
 version ``2021.11``
 installation : https://www.anaconda.com/products/distribution
 
-### 4. Referances
+### 3. Reference
 - https://ksa.yallamotor.com/used-cars/search
 - http://p3nlhclust404.shr.prod.phx3.secureserver.net/SharedContent/redirect_0.html
 - http://www.saudisale.com/SS_e_mpg.aspx
