@@ -1,7 +1,7 @@
 # ProjectModule3
 
 ## Project Description
-This Project is about make a model to predicted the price of Saudi Arabia Used Cars. On this set there are steps on it (Business Problem, Data Understanding, Data Cleaning, Data Analysis, Feature Engineering, Modeling, Conclusion and Recommendation) for giving prediction and insight as a Data Scientist to a stakeholder.
+This Project is about making a model to predicted the price of Saudi Arabia Used Cars. On this set there are steps on it (Business Problem, Data Understanding, Data Cleaning, Data Analysis, Feature Engineering, Modeling, Conclusion and Recommendation) for giving prediction and insight as a Data Scientist to a stakeholder.
 
 ## Dev Enviroment Setup
 
